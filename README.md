@@ -53,6 +53,7 @@ namespace Exercise
 ```
 
 ##Output:
+
 ![Z1](https://github.com/21005688/Recursive-function/assets/94747031/0b32bbf2-1380-4062-a47f-f1e6009b9b12)
 
 
